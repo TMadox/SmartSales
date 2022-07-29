@@ -110412,7 +110412,7 @@ k=t.N
 o=t.z
 n=A.Z(["user_id",e,"refrence_id","ref"],k,o)
 s=3
-return A.p(p.a.rt(0,"http://"+a+"/get_data_users_by_user_id",A.nB(A.Z(["Authorization","Basic "+j],k,o),15e3,15e3),n,o),$async$EV)
+return A.p(p.a.rt(0,"//"+a+"/get_data_users_by_user_id",A.nB(A.Z(["Authorization","Basic "+j],k,o),15e3,15e3),n,o),$async$EV)
 case 3:m=h
 if(J.f(m.a,"[]"))throw A.d("\u062e\u0637\u0627 \u0641\u064a \u0645\u062f\u062e\u0644\u0627\u062a \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0648 \u0643\u0644\u0645\u0629 \u0627\u0644\u0633\u0631 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0631\u0627\u0628\u0637")
 if(J.f(m.a,"-11"))throw A.d("\u0647\u0630\u0627 \u0627\u0644\u062c\u0647\u0627\u0632 \u063a\u064a\u0631 \u0645\u0633\u062c\u0644")
